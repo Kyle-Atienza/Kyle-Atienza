@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Kyle-Atienza i am currently an IT student based in the Philippines
-- 👀 I’m interested in web development primarily as being a programmer, but outside that i also like drawing and msuic
-- 🌱 I’m currently learning to polish my skills on HTML, CSS, JavaScript and further on branching to libraries and framework.
-- 📫 How to reach me? My email adress is kylefrancisedison@gmail.com
+# Kyle Francis Edison O. Ations
+Hi there 👋
+🔭 I’m currently working on [Creating Web Solutions]
+🏢 I’m currently working as a [CMS Developer at BetMGM Manila]
+🌱 I’m currently learning [Thousands of never-ending new things JavaScript related]
+📫 How to reach me: [kylefrancisedison@gmail.com]
+😄 Pronouns: [He/Him]
+⚡ Fun fact: [I can't do the Asian squat even though I am not Asian]
