@@ -1,8 +1,8 @@
 # Kyle Francis Edison O. Ations
-Hi there 👋
-🔭 I’m currently working on [Creating Web Solutions]
-🏢 I’m currently working as a [CMS Developer at BetMGM Manila]
-🌱 I’m currently learning [Thousands of never-ending new things JavaScript related]
-📫 How to reach me: [kylefrancisedison@gmail.com]
-😄 Pronouns: [He/Him]
-⚡ Fun fact: [I can't do the Asian squat even though I am not Asian]
+- Hi there 👋
+- 🔭 I’m currently working on [Creating Web Solutions]
+- 🏢 I’m currently working as a [CMS Developer at BetMGM Manila]
+- 🌱 I’m currently learning [Thousands of never-ending new things JavaScript related]
+- 📫 How to reach me: [kylefrancisedison@gmail.com]
+- 😄 Pronouns: [He/Him]
+- ⚡ Fun fact: [I can't do the Asian squat even though I am an Asian]
