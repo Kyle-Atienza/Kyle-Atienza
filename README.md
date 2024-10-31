@@ -1,7 +1,7 @@
 # Kyle Francis Edison O. Atienza
 Hi there I am Kyle and I am a Web Developer 👋
 - 🔭 I’m currently working on [Creating Web Solutions]
-- 🏢 I’m currently working as a [CMS Developer at BetMGM Manila]
+- 🏢 I’m currently working as a [UI Developer at GHD]
 - 🌱 I’m currently learning [Thousands of never-ending new things JavaScript related]
 - 📫 How to reach me: [kylefrancisedison@gmail.com]
 - 😄 Pronouns: [He/Him]
